@@ -1,0 +1,1 @@
+# my-sec-task-in-python-class
